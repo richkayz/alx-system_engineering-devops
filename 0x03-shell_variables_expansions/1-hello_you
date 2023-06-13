@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls= "echo hello; whome"
+alias ls= "echo hello whome"
