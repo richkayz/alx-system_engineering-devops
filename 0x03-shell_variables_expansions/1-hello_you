@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello" alias ls= "whoami"
+echo hello $USER
